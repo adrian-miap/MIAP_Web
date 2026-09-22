@@ -1,0 +1,5 @@
+@font-face{font-family:'Karla';font-style:normal;font-weight:400 700;font-display:swap;src:url('/fonts/karla-latin.woff2') format('woff2')}
+@font-face{font-family:'Poppins';font-style:normal;font-weight:500;font-display:swap;src:url('/fonts/poppins-500-latin.woff2') format('woff2')}
+@font-face{font-family:'Poppins';font-style:normal;font-weight:600;font-display:swap;src:url('/fonts/poppins-600-latin.woff2') format('woff2')}
+@font-face{font-family:'Poppins';font-style:normal;font-weight:700;font-display:swap;src:url('/fonts/poppins-700-latin.woff2') format('woff2')}
+:root{font-family:'Karla',Arial,sans-serif;color:#272d3a;background:#fff;font-synthesis:none;text-rendering:optimizeLegibility;--ink:#272d3a;--violet:#4d39e9;--lime:#87b83f}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-width:320px}button,a{font:inherit}a{color:inherit}img{display:block;max-width:100%}button:focus-visible,a:focus-visible{outline:3px solid var(--lime);outline-offset:4px}::selection{background:var(--violet);color:#fff}

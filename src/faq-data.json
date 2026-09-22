@@ -1,0 +1,86 @@
+{
+  "source": "local-snapshot",
+  "updatedAt": "2026-09-22",
+  "items": [
+    {
+      "category": "Training",
+      "question": "What is included in the training?",
+      "answer": "<p>If the training is on-site, aside from the incredible knowledge you will gain in the topics to drive business impact, we will also provide cheat sheets covering the specific modules as a easy to use reference guide. Naturally we will also provide Makeitaplan pens made from recycled materials plus a seasonal branded gift.</p>"
+    },
+    {
+      "category": "Training",
+      "question": "How many people can be in the training session at once?",
+      "answer": "<p>We recommend up to 6 delegates per training session so that everyone can get the most out of the training.</p>"
+    },
+    {
+      "category": "Training",
+      "question": "How long is a full training day?",
+      "answer": "<p>Our full day training days run from 10.00 – 16.00 unless agreed otherwise</p>"
+    },
+    {
+      "category": "Training",
+      "question": "Do you provide manuals?",
+      "answer": "<p>This varies depending on which CRM software you are using but we will always leave you a laminated cheat sheet covering the training you received.</p>"
+    },
+    {
+      "category": "Training",
+      "question": "What setup is required for the training in our office?",
+      "answer": "<p>The required environment in your office would be:</p>\n<ul>\n<li>Access to a computer or laptop for every person being trained</li>\n<li>Room large enough to accommodate all those being trained</li>\n</ul>\n<p>Ideal but not essential</p>\n<ul>\n<li>A computer or laptop linked to a projector for the trainer</li>\n<li>Flip chart or board</li>\n</ul>\n<p>Not all offices lend themselves to this environment, contact us to discuss case by case.</p>"
+    },
+    {
+      "category": "Training",
+      "question": "Does Makeitaplan have a training location?",
+      "answer": "<p>Training is either held in client sites or remote, however if this is required then a provision can be made for this option at additional cost.</p>"
+    },
+    {
+      "category": "Training",
+      "question": "How much does training cost?",
+      "answer": "<p>We have specific rates designed for charities and non-charity organisations. Contact us to discuss your training needs and we can build a bespoke plan.</p>\n<p><strong>Charity Rates<br />\n</strong>Daily Rate is £500 +VAT<br />\nHalf Day Rate £275 +VAT<br />\nRemote (2 hour) sessions £190​ +VAT</p>\n<p><strong>Non Charity Rates<br />\n</strong>Daily Rate is £750 +VAT<br />\nHalf Day Rate £425 +VAT<br />\nRemote (2 hour) sessions £275 +VAT</p>"
+    },
+    {
+      "category": "Training",
+      "question": "Are there others costs involved with training?",
+      "answer": "<p>If on-site training is required, the costs of travel will be incurred. These could be either a per mile allowance or standard train ticket.</p>\n<p>If an overnight stay is required due to the distance or multiple training days, then the costs of a local low cost hotel will also be charged with an allowance for an evening meal.</p>"
+    },
+    {
+      "category": "Training",
+      "question": "Will you ever train outside of office hours?",
+      "answer": "<p>Yes as an exception and this must be pre arranged. If we do we agree outside office hours work, the rate is 1.5 times.</p>"
+    },
+    {
+      "category": "Data Migration",
+      "question": "Can Makeitaplan help with moving to a database that is not supported?",
+      "answer": "<p>Yes, providing the database you are moving from is supported. Makeitaplan can work with you and or the software supplier to assist with the migration. We can also act as the project manager of the move if you require.</p>"
+    },
+    {
+      "category": "Data Migration",
+      "question": "Do you provide templates for the data when migrating?",
+      "answer": "<p>Makeitaplan would generally expect the software supplier to provide the template for us to map the existing data in your database to this, however contact us if you have an reservation on this occurring and we can work with the new software provider.</p>"
+    },
+    {
+      "category": "Data Migration",
+      "question": "How long does data migration take to complete?",
+      "answer": "<p>This varies on a case by case basis but as a guide we have seen most complete in three to four days.</p>"
+    },
+    {
+      "category": "CRM System Consultation",
+      "question": "What do you need from us on the assessment day?",
+      "answer": "<p>One of our consultants will need to be able to speak to a representative from each department that needs to use the CRM system and database. The feedback we have received when this happens is that it is a very thought provoking day and it is clearer on what is needed.</p>"
+    },
+    {
+      "category": "CRM System Consultation",
+      "question": "How long is the assessment day?",
+      "answer": "<p>Generally the assessment day is around 10.00 to 15.00 but this does depend on the number of departments and topics that will be covered.</p>"
+    },
+    {
+      "category": "CRM System Consultation",
+      "question": "What can we expect to receive following the assessment day?",
+      "answer": "<p>Makeitaplan will produce a report summarising the discussion with a list of quick fixes alongside medium to long terms suggestions to improve the efficiency of using the CRM system.</p>"
+    },
+    {
+      "category": "CRM System Consultation",
+      "question": "How much do you charge for the assessment day?",
+      "answer": "<p>We have specific rates designed for charities and non-charity organisations.</p>\n<p><strong>Charity Rates<br />\n</strong>Assessment Day is £500​ +VAT</p>\n<p><strong>Non Charity Rates<br />\n</strong>Assessment Day is £750 +VAT</p>"
+    }
+  ]
+}
