@@ -14,7 +14,7 @@ npm run dev
 Google Analytics and Microsoft Clarity load only after the visitor accepts Analytics cookies. Copy `.env.example` to `.env.local` for local use and set:
 
 ```text
-VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX
+
 VITE_CLARITY_PROJECT_ID=xxxxxxxxxx
 ```
 
